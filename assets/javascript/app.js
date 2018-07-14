@@ -2,15 +2,15 @@
 var panel = $("#quiz-area");
 // Question set
 var questions = [{
-  question: "How many branches have Ucdavis University the Sacramento?",
+  question: "How many branches  UC Davis University have in Sacramento?",
   answers: ["2", "3", "4", "5"],
   correctAnswer: "2"
 }, {
-  question: "wher is hte main office of Ucdavis University?",
+  question: "Where is located the main office of UC Davis University?",
   answers: ["sacramento", "Filsom", "Davis", "CA"],
   correctAnswer: "Davis"
 }, {
-  question: "which of the falowing date ucdavis university start as a university in davis ca?",
+  question: "which of the falowing date uc Davis university start as a university?",
   answers: ["1905", "1990", "1987", "1901"],
   correctAnswer: "1905"
 }, {
@@ -18,11 +18,11 @@ var questions = [{
   answers: ["Uc Davis", "UCLA ", "UC Berkeley", "Sac state"],
   correctAnswer: "Uc Davis "
 }, {
-  question: "Hoe many Academic staff have UC Davis university?",
+  question: "How many Academic staff have UC Davis university?",
   answers: ["650", "1600", "1888", "2000"],
   correctAnswer: "1888"
 }, {
-  question: "How many Administrative stuff have Ucdavis university ?",
+  question: "How many Administrative stuff have UC Davis university ?",
   answers: ["3500", "214486", "3256", "9000"],
   correctAnswer: "21486"
 }, {
@@ -30,15 +30,15 @@ var questions = [{
   answers: ["36441", "48976", "89435", "22345"],
   correctAnswer: "48976"
 }, {
-  question: "Who is the president of Uc davis university ",
+  question: "Who is the president of the Uc davis university ",
   answers: ["Jash", "Janet Napolitano", "David A", "Ryan"],
   correctAnswer: "Janet Napolitano"
 }, {
-    question: "what persentage of women are undergraduates in uc davis university?",
+    question: "What persentage of women are undergraduates in uc davis university?",
     answers: ["34%", "67%", "59%", "39%"],
     correctAnswer: "59%"
 }, {
-    question: "how much will be the averege cost of Ucdavis university in one year?",
+    question: "How much will be the averege cost of UC Davis university in one year?",
     answers: ["$35361", "$30229", "$27335", "$64356"],
     correctAnswer: "$64356"
   },];
